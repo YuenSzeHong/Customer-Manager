@@ -1,0 +1,11 @@
+{
+  "name": "customer-manager",
+  "version": "1.0.0",
+  "description": "front end for customer manager app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuen Sze Hong",
+  "license": "ISC"
+}
