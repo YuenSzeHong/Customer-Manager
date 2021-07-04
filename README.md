@@ -1,4 +1,4 @@
-# frontend
+# Customer Manager App
 
 ## Project setup
 ```
